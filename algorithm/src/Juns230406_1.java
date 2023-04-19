@@ -3,7 +3,6 @@ import java.io.*;
 
 
 public class Juns230406_1 {
-
     static Integer[] dp;
 
     static int cal(int a){
